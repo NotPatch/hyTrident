@@ -1,0 +1,8 @@
+name: HyTrident
+version: ${project.version}
+main: com.hysteria.hytrident.HyTrident
+api-version: 1.18
+authors: [ NotPatch ]
+description: Advanced tridents
+commands:
+  trident:

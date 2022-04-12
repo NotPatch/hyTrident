@@ -1,0 +1,24 @@
+inferno:
+  name: Inferno
+  maxLevel: 3
+  startLevel: 1
+  isTreasure: true
+  isCursed: false
+glow:
+  name: Glow
+  maxLevel: 3
+  startLevel: 1
+  isTreasure: true
+  isCursed: false
+stab:
+  name: Stab
+  maxLevel: 2
+  startLevel: 1
+  isTreasure: true
+  isCursed: false
+increase:
+  name: Increase
+  maxLevel: 5
+  startLevel: 1
+  isTreasure: true
+  isCursed: false

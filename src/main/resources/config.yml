@@ -1,0 +1,24 @@
+lang:
+  track-notify: "&aYour trident is in the &e%x%&7, &e%y%&7, &e%z%&7."
+  track-nosignal: "&aTrident can't longer be traced&7. &aLast location &e%x%&7, &e%y%&7, &e%z%&7."
+  reload: "&aConfig reloaded!"
+
+trident-track: true
+
+recipe:
+  enable: true
+  shape:
+    UPPER: AAA
+    MIDDLE: BAB
+    LOWER: BCB
+  ingredients:
+    A: DIAMOND
+    B: EMERALD
+    C: STICK
+
+enchantments:
+  inferno: true
+  glow: true
+  stab: true
+  increase: true
+
